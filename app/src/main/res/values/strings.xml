@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">User Registration Form</string>
+    <string name="your_email">Your Email</string>
+    <string name="select_gender">Select Gender :</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="select_country">Select Country :</string>
+    <string name="submit">Submit</string>
+    <string name="home">Home</string>
+    <string name="enter_your_email_id">Enter your Email Id :</string>
+    <string name="your_name">Your Name</string>
+    <string name="enter_your_name">Enter your Name :</string>
+    <string name="user_registration_form">User Registration Form</string>
+    <string name="register">Register</string>
+    <string name="view_data">View Data</string>
+    <string name="todo">TODO</string>
+    <string name="show_deleted">Show Deleted</string>
+    <string name="delete">Delete</string>
+    <string name="restore">restore</string>
+    <string name="no_data_found">No data found</string>
+    <string name="permanently_delete">Permanently Delete</string>
+
+
+    <string-array name="countries_array">
+        <item>India</item>
+        <item>USA</item>
+        <item>Canada</item>
+        <item>UK</item>
+        <item>Other</item>
+    </string-array>
+</resources>
